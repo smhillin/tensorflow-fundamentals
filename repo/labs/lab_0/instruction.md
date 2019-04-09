@@ -94,7 +94,9 @@ insert this into document
     
     cd Notebooks
 
+### Run Jupyter Notebook
 
+    jupyter notebook
 
 ### Visit Jupyter notebook in local browser
 
