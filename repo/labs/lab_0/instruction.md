@@ -46,8 +46,11 @@ first two lines of notebook should be
     
     passwd()
     
-enter a secure password you can remember
-copy down the 'sha1:88f19c174703:ba6c1478d8fcae828a4ae3117498f874a1fa7221'
+enter a secure password 
+
+you can remember
+
+IMPORTANT: copy down the hash 'sha1:88f19c174703:ba6c1478d8fcae828a4ae3117498f874a1fa7221'
 
     exit
     
