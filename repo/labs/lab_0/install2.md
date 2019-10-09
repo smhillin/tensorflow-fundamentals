@@ -26,7 +26,9 @@ open a new terminal windows get command line access to container
     
     pip install seaborn
     
-
+    apt install git
+    
+    git clone https://github.com/smhillin/tensorflow-fundamentals.git
 
     
     
