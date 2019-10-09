@@ -6,9 +6,9 @@
 ## Spin up a Docker Tensorflow Container with Python 3
 
 
-    docker pull tensorflow/tensorflow:latest-py3-jupyter
+    docker pull tensorflow/tensorflow:1.13.1-py3-jupyter
     
-    docker run --name dragon -it --rm -p 8888:8888 tensorflow/tensorflow:latest-py3-jupyter
+    docker run --name dragon -it --rm -p 8888:8888 -p 6006:6006 tensorflow/tensorflow:1.13.1-py3-jupyter
 
 ### Copy and Paste The TF Link and token into browser
 
